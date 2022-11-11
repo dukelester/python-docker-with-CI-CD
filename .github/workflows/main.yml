@@ -3,7 +3,7 @@ name: Python with Docker Hub CI
 on:
   push:
     branches:
-      - main""
+      - "main"
 jobs:
   build:
     runs-on: ubuntu-latest
