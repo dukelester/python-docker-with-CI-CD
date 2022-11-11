@@ -9,4 +9,6 @@ python-docker
 |____ app.py
 |____ requirements.txt
 |____ Dockerfile
+|____ docker-compose.dev.yml
+|____ README.md
 ```
